@@ -1,0 +1,4 @@
+To simulate code, this file is going to list the things we are doing, in perceived order:
+
+1. Initial commit of README.md to the main branch.
+2. Addition of this project_details.txt file, filled with text representative of a code being pushed to the repository.
