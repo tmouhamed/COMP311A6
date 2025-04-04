@@ -1,4 +1,6 @@
 To simulate code, this file is going to list the things we are doing, in perceived order:
 
 1. Initial commit of README.md to the main branch.
-2. Addition of this project_details.txt file, filled with text representative of a code being pushed to the repository.
+2. Addition of this project_details.txt file, filled with text representative of a code being pushed to the repository. Also:
+    2.1. Created a new branch feature/fix-bug from the main branch
+    2.2. Made changes to the project_details.txt to simulate a bug fix to the existing code. This is why these lines are being added under #2 instead of as new lines.
