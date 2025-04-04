@@ -2,3 +2,6 @@ To simulate code, this file is going to list the things we are doing, in perceiv
 
 1. Initial commit of README.md to the main branch.
 2. Addition of this project_details.txt file, filled with text representative of a code being pushed to the repository.
+3. Branch feature/add_new_feature was created from main.
+4. feature/add_new_feature introduced new changes to the file project_details.txt. This simulates adding a new feature to the existing code in the main branch.
+5. Adding fix for issue1 introduced by this branch as indicated in PR #1.
